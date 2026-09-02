@@ -1,4 +1,4 @@
-# Hi, I'm Yiğit
+# Yiğit
 
 Software Development student focused on backend development.
 
